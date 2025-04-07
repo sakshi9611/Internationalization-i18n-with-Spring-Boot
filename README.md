@@ -1,5 +1,4 @@
 # 🌐 Internationalization-i18n-with-Spring-Boot
-
 This project demonstrates how to build a Spring Boot application that supports internationalization (i18n) — enabling dynamic language-based responses based on client locale preferences.
 ---
 ## 🚀 Features
